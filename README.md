@@ -216,32 +216,30 @@
 ---
 
 <h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="40">
-</h2>
-<p align="center">
-  <img src="https://github.com/HashByte-M/HashByte-M/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
----
-
-<h2 align="center">
   My Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 </h2>
-
 <br/>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HashByte-M&show_icons=true&theme=radical&line_height=27&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashByte-M&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HashByte-M&show_icons=true&theme=radical&line_height=27&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashByte-M&theme=radical&hide_border=true&layout=compact&cache_seconds=1800" alt="Top Languages"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HashByte-M&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HashByte-M&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" alt="GitHub Streak"/>
 </p>
-
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=HashByte-M&theme=redical"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HashByte-M&theme=react-dark&hide_border=true&area=true&color=00D9FF&line=7B2FBE&point=ffffff" alt="Contribution Activity Graph"/>
 </p>
-
-<hr/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HashByte-M&theme=radical" alt="Profile Summary"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HashByte-M&theme=radical" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HashByte-M&theme=radical" alt="Most Commit Language"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HashByte-M&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HashByte-M&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+</p>
+<!-- BOTTOM WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,60:00D9FF,100:0D1117&height=120&section=footer"/>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>

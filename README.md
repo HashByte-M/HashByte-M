@@ -16,14 +16,14 @@
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF2A5F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f)](https://linkedin.com/in/prateek-modanwal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00F0FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0f)](https://portfolio-prateekm.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00F0FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0f)](https://Prateekm.netlify.app)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-FFE600?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0a0a0f)](mailto:prateekmodanwal.work@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/prateekmodanwal)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/HashByte-M)
 
 <br/>
 
 <!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=prateekmodanwal&style=for-the-badge&color=FF2A5F&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=HashByte-M&style=for-the-badge&color=FF2A5F&label=PROFILE+VIEWS)
 
 </div>
 
@@ -79,19 +79,19 @@ currently:
 <tr>
 <td width="50%">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prateekmodanwal&show_icons=true&theme=transparent&hide_border=true&title_color=FF2A5F&icon_color=00F0FF&text_color=ffffff&bg_color=0a0a0f&rank_icon=github&show=reviews,discussions_started,prs_merged)](https://github.com/prateekmodanwal)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HashByte-M&show_icons=true&theme=transparent&hide_border=true&title_color=FF2A5F&icon_color=00F0FF&text_color=ffffff&bg_color=0a0a0f&rank_icon=github&show=reviews,discussions_started,prs_merged)](https://github.com/HashByte-M)
 
 </td>
 <td width="50%">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prateekmodanwal&theme=transparent&hide_border=true&ring=FF2A5F&fire=FFE600&currStreakLabel=00F0FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&background=0a0a0f&dates=94a3b8)](https://github.com/prateekmodanwal)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HashByte-M&theme=transparent&hide_border=true&ring=FF2A5F&fire=FFE600&currStreakLabel=00F0FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&background=0a0a0f&dates=94a3b8)](https://github.com/HashByte-M)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prateekmodanwal&layout=compact&theme=transparent&hide_border=true&title_color=FF2A5F&text_color=ffffff&bg_color=0a0a0f&langs_count=10)](https://github.com/prateekmodanwal)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HashByte-M&layout=compact&theme=transparent&hide_border=true&title_color=FF2A5F&text_color=ffffff&bg_color=0a0a0f&langs_count=10)](https://github.com/HashByte-M)
 
 </td>
 </tr>
@@ -277,7 +277,7 @@ An AI-powered water intelligence platform for groundwater depletion forecasting 
 
 ## 📈 &nbsp; CONTRIBUTION ACTIVITY
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prateekmodanwal&bg_color=0a0a0f&color=00F0FF&line=FF2A5F&point=FFE600&area=true&hide_border=true&area_color=FF2A5F)](https://github.com/prateekmodanwal)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HashByte-M&bg_color=0a0a0f&color=00F0FF&line=FF2A5F&point=FFE600&area=true&hide_border=true&area_color=FF2A5F)](https://github.com/HashByte-M)
 
 </div>
 
@@ -292,9 +292,9 @@ An AI-powered water intelligence platform for groundwater depletion forecasting 
 ## 🐍 &nbsp; CONTRIBUTION SNAKE
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prateekmodanwal/prateekmodanwal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prateekmodanwal/prateekmodanwal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/prateekmodanwal/prateekmodanwal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HashByte-M/HashByte-M/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HashByte-M/HashByte-M/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HashByte-M/HashByte-M/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -348,7 +348,7 @@ An AI-powered water intelligence platform for groundwater depletion forecasting 
   <img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00F0FF" />
 </a>
 &nbsp;
-<a href="https://portfolio-prateekm.netlify.app/">
+
   <img src="https://img.shields.io/badge/Portfolio-0a0a0f?style=for-the-badge&logo=vercel&logoColor=FF2A5F" />
 </a>
 &nbsp;
@@ -356,7 +356,7 @@ An AI-powered water intelligence platform for groundwater depletion forecasting 
   <img src="https://img.shields.io/badge/Gmail-0a0a0f?style=for-the-badge&logo=gmail&logoColor=FFE600" />
 </a>
 &nbsp;
-<a href="https://github.com/prateekmodanwal">
+<a href="https://github.com/HashByte-M">
   <img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
 
@@ -394,11 +394,18 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: prateekmodanwal
+          github_user_name: HashByte-M
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+-->
         with:
           target_branch: output
           build_dir: dist

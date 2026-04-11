@@ -227,9 +227,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HashByte-M&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HashByte-M&theme=react-dark&hide_border=true&area=true&color=00D9FF&line=7B2FBE&point=ffffff" alt="Contribution Activity Graph"/>
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HashByte-M&theme=radical" alt="Profile Summary"/>
 </p>
 <p align="center">

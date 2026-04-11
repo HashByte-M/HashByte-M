@@ -1,214 +1,234 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:FF2A5F,100:00F0FF&height=200&section=header&text=Prateek%20Modanwal&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=aka%20HashByte-M%20%E2%80%94%20Industrial%20AI%20%7C%20Full-Stack%20%7C%20Real-Time%20Systems&descSize=15&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prateek%20Modanwal&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Building%20systems%20that%20think%2C%20adapt%2C%20and%20deliver%20measurable%20impact&descSize=14&descAlignY=56&animation=fadeIn"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=ML+Developer+%26+Team+Lead+%E2%80%94+Go+BRICS+Energy-O-Thon;Top+60+%2F+10%2C000%2B+Teams+%7C+%E2%82%AC2.1B+Market;1st+Place+%E2%80%94+Indo-Russian+Energy-O-Thon+(Dec+2025);Full-Stack+%7C+FastAPI+%C2%B7+React+%C2%B7+PostgreSQL+%C2%B7+WebSocket;B.Tech+Electrical+Engineering+%40+RGIPT)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF2A5F&center=true&vCenter=true&width=750&lines=ML+Developer+%26+Team+Lead+%F0%9F%A4%96;Top+60+%2F+10%2C000%2B+Teams+%E2%80%94+Go+BRICS+Energy-O-Thon+%F0%9F%8F%86;1st+Place+%E2%80%94+Indo-Russian+Bilateral+Energy-O-Thon+%F0%9F%A5%87;Full-Stack+Engineer+%7C+FastAPI+%C2%B7+React+%C2%B7+PostgreSQL+%F0%9F%9A%80;B.Tech+EE+%28E-Vehicle+Tech%29+%40+RGIPT+%F0%9F%94%8C)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prateek-modanwal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=netlify&logoColor=white)](https://Prateekm.netlify.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prateekmodanwal.work@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HashByte-M)
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prateek-modanwal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF2A5F.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://Prateekm.netlify.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prateekmodanwal.work@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=HashByte-M&label=Profile%20Views&color=FF2A5F&style=flat" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=HashByte-M&style=flat-square&color=6366F1&label=profile+views)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👋 &nbsp; About Me
 
-```yaml
-name        : Prateek Modanwal
-alias       : HashByte-M
-degree      : B.Tech — Electrical Engineering (E-Vehicle Technology)
-institute   : Rajiv Gandhi Institute of Petroleum Technology (RGIPT)
-cpi         : 7.48 / 10    |    batch: 2025 – 2029
-location    : Amethi, Uttar Pradesh, India 🇮🇳
+I'm a **first-year B.Tech Electrical Engineering student** at RGIPT, specialising in E-Vehicle Technology — and I build production-grade ML systems, full-stack web applications, and industrial AI platforms in my spare time.
 
-interests   : Industrial AI · Real-Time Systems · Full-Stack Engineering
-currently   : Building ML inference + SCADA monitoring platforms
-exploring   : Edge-AI for EV systems · Advanced ESG optimisation
-open_to     : Internships · Research Collabs · Open Source
-```
+- 🏆 &nbsp; **Top 60 / 10,000+** at Energy-O-Thon, Go BRICS Business Forum *(Mar 2026)*
+- 🥇 &nbsp; **1st Place** at the Indo-Russian Bilateral Energy-O-Thon *(Dec 2025)* — only all-first-year UG team of 330+ participants
+- 💡 &nbsp; Quantified **$18,000+** in avoidable operational cost per 90 MW incident via ML dispatch model
+- 🤖 &nbsp; Projected **$175,200/year** per-furnace savings with a Random Forest digital twin
+- 📍 &nbsp; Amethi, Uttar Pradesh, India
+- 📬 &nbsp; Reach me at **prateekmodanwal.work@gmail.com**
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **1st Place** — Indo-Russian Bilateral Energy-O-Thon *(Dec 2025)* — Only all-first-year UG team among 330+ intl. participants
-- 🏆 **Top 60 / 10,000+** — Energy-O-Thon, Go BRICS Business Forum *(Mar 2026)* — €2.1B addressable market
-- 💰 **$18,000+** avoidable operational cost per 90 MW incident quantified via ML dispatch model
-- 🤖 **$175,200/year** projected per-furnace savings via Random Forest digital twin
-
----
-
-## 🛠️ Tech Stack
+### 🛠 &nbsp; Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Backend & APIs**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 
-**Frontend & Visualisation**
+**Frontend**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
-**ML & Data Science**
+**Machine Learning & Data**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Tools & DevOps**
+**Tools**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 &nbsp; GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/HashByte-M">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HashByte-M&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF2A5F&icon_color=00F0FF&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashByte-M&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF2A5F&text_color=ffffff&count_private=true"/>
-</a>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=HashByte-M&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6366F1&icon_color=14B8A6&text_color=e2e8f0"/>
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashByte-M&layout=compact&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=6366F1&text_color=e2e8f0&langs_count=8"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=HashByte-M&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6366F1&fire=14B8A6&currStreakLabel=6366F1&stroke=0d1117"/>
+
+</div>
+
+---
+
+### 📈 &nbsp; Activity Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HashByte-M&theme=github_dark" width="100%"/>
 
 <br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=HashByte-M&theme=tokyonight&hide_border=true&background=0d1117&ring=FF2A5F&fire=FFE600&currStreakLabel=00F0FF&stroke=0d1117" alt="GitHub Streak"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HashByte-M&theme=github_dark" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HashByte-M&theme=github_dark" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HashByte-M&theme=github_dark&utcOffset=5.5" width="32%"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+### 🚀 &nbsp; Projects
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HashByte-M&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F0FF&line=FF2A5F&point=FFE600&area=true&area_color=FF2A5F" width="100%"/>
-</div>
-
----
-
-## 🔥 Projects
-
-### ⚡ EnergySphere — Real-Time ML Inference & Industrial Energy Monitoring Platform
-`Mar 2026` · `FastAPI` · `React/TS` · `WebSocket` · `Scikit-Learn` · `SARIMAX` · `ThreadPoolExecutor`
+#### ⚡ EnergySphere — Real-Time ML Inference & Industrial Energy Monitoring Platform
+`Mar 2026` &nbsp;·&nbsp; FastAPI · React/TypeScript · WebSocket · Scikit-Learn · SARIMAX · ThreadPoolExecutor
 
 <details>
-<summary>View Details</summary>
+<summary>Details</summary>
+<br/>
 
-- Async FastAPI service with **30+ REST endpoints** + WebSocket SCADA ingest (500-row buffer, 2–60s polling)
-- **3 concurrent ML models** via `ThreadPoolExecutor`: `RandomForest` (fault classification) · `GradientBoosting` (RUL estimation) · `SARIMAX` (demand forecasting)
-- Real-time **z-score anomaly engine** with per-sensor bleeding-cost `$/hr` tracking
-- `TTLCache` to eliminate redundant inference calls
-- React/TypeScript frontend with **10+ dashboard views**: Live Status · Predictive Maintenance · ESG Compliance · Fault Classifier · Carbon Tracking
-- **Automated Scope 1 carbon reporting** built into the dashboard
+An async FastAPI backend with 30+ REST endpoints and WebSocket SCADA ingest (500-row buffer, 2–60s polling) powering a live industrial monitoring dashboard.
+
+- Parallelised **three ML models** via `ThreadPoolExecutor` to prevent blocking the async event loop — `RandomForestClassifier` for fault detection, `GradientBoostingRegressor` for Remaining Useful Life estimation, and `SARIMAX` for demand forecasting
+- Real-time **z-score anomaly engine** surfacing per-sensor bleeding-cost (`$/hr`) and a composite plant health score
+- `TTLCache` to eliminate redundant inference on repeated requests
+- **Automated Scope 1 carbon reporting** and ESG compliance dashboard built in React/TypeScript
+- 10+ dashboard views: Live Status · Predictive Maintenance · Fault Classifier · Carbon Tracking · ESG Compliance
 
 ```
-SCADA ──WS──▶ FastAPI ──▶ ThreadPoolExecutor ──┬──▶ RandomForest   (Fault)
-                                                ├──▶ GradBoost      (RUL)
-                                                └──▶ SARIMAX        (Forecast)
-                                                         │
-                                                   TTLCache ──▶ React Dashboard
+SCADA ──WS──▶ FastAPI (30+ endpoints) ──▶ ThreadPoolExecutor
+                                                 ├── RandomForest   → Fault Classification
+                                                 ├── GradBoost      → RUL Estimation  
+                                                 └── SARIMAX        → Demand Forecast
+                                                          │
+                                                    TTLCache ──▶ React/TS Dashboard
 ```
 
 </details>
 
 ---
 
-### 🏫 HostelHub — Full-Stack Campus Management Web Application
-`Nov 2025` · `FastAPI` · `PostgreSQL (Neon)` · `SQLAlchemy` · `Socket.IO` · `JWT` · `Chart.js`
+#### 🏫 HostelHub — Full-Stack Campus Management Web Application
+`Nov 2025` &nbsp;·&nbsp; FastAPI · PostgreSQL (Neon) · SQLAlchemy · Socket.IO · JWT · Chart.js
 
 <details>
-<summary>View Details</summary>
+<summary>Details</summary>
+<br/>
 
-- **JWT + OTP dual-layer auth** with RBAC enforced across **5 permission tiers** (Admin / Warden / Student / Staff / Guest)
-- Neon PostgreSQL via SQLAlchemy ORM with **cold-start auto-migration**
-- **4 Socket.IO real-time push channels**: notices · maintenance · complaints · room allocation
-- **Claymorphism UI** with CSS custom properties + adaptive dark/light theming
-- `Promise.all` parallel fetching to minimise dashboard load time
-- Chart.js analytics: occupancy · maintenance history · facility utilisation
-- Fully **deployed on Render** with environment-based config management
+A production-grade campus management portal deployed on Render, built for security, real-time responsiveness, and role-based access control.
+
+- **JWT + OTP dual-layer authentication** with RBAC enforced across 5 permission tiers — Admin, Warden, Student, Staff, Guest
+- Neon PostgreSQL schema via SQLAlchemy ORM with **cold-start auto-migration** on first deploy
+- **4 Socket.IO real-time push channels** — notices, maintenance updates, complaint tracking, room allocation
+- Claymorphism UI built with CSS custom properties and **adaptive dark/light theming**
+- `Promise.all` parallel fetching to minimise dashboard load times across all views
+- Chart.js dashboards for occupancy trends, maintenance history, and facility utilisation
+- Fully deployed on **Render** with environment-based configuration management
 
 </details>
 
 ---
 
-### 💧 AquaSphere — Time-Series Forecasting & LLM-Integrated Data Intelligence Platform
-`Oct 2025` · `Python` · `SARIMAX` · `Statsmodels` · `Google Gemini` · `Pandas` · `NumPy`
+#### 💧 AquaSphere — Time-Series Forecasting & LLM-Integrated Data Intelligence Platform
+`Oct 2025` &nbsp;·&nbsp; Python · SARIMAX · Statsmodels · Google Gemini · Pandas · NumPy
 
 <details>
-<summary>View Details</summary>
+<summary>Details</summary>
+<br/>
 
-- **SARIMAX** on multi-year hydro-meteorological data → groundwater forecasting at **95% confidence**
-- Parametric **What-If Scenario Engine** to simulate demand and precipitation perturbations
-- **LLM post-processor (Gemini)** converts raw statistical correlations → structured policy briefs for non-technical stakeholders
-- Automated **ETL pipeline**: outlier detection · imputation · deduplication on unstructured CSVs
+An AI-powered groundwater intelligence platform combining statistical forecasting with LLM-generated policy briefs for non-technical stakeholders.
+
+- **SARIMAX** fitted on multi-year hydro-meteorological data for groundwater depletion forecasting at **95% confidence intervals**
+- Parametric **What-If Scenario Engine** to simulate the effect of rainfall and demand perturbations
+- **LLM post-processor (Google Gemini)** translates raw statistical correlations into structured policy documents
+- Automated **ETL pipeline** — outlier detection, imputation, and deduplication on unstructured CSV data
 
 </details>
 
 ---
 
-### 🤖 Autonomous Obstacle-Avoiding Robot
-`Hardware Project` · `Arduino UNO` · `C++` · `L298N Motor Driver` · `HC-SR04`
+#### 🤖 Autonomous Obstacle-Avoiding Robot
+`Hardware Project` &nbsp;·&nbsp; Arduino UNO · C++ · L298N Motor Driver · HC-SR04
 
 <details>
-<summary>View Details</summary>
+<summary>Details</summary>
+<br/>
 
-- Differential-drive mobile robot with real-time obstacle sensing via HC-SR04 ultrasonic
-- L298N H-Bridge motor driver integration with embedded C++ control loops
-- Fully autonomous obstacle avoidance logic — no external compute
+- Differential-drive mobile robot with real-time distance sensing via HC-SR04 ultrasonic sensor
+- L298N H-Bridge motor driver with embedded C++ control loops
+- Fully autonomous obstacle avoidance — no external compute required
 
 </details>
 
 ---
 
-## 🏅 Competitive Record
+### 🏅 &nbsp; Competitive Record
 
-| Rank | Event | Date | Key Result |
+| Result | Event | Date | Impact |
 |:---:|:---|:---:|:---|
-| 🏆 **Top 60** / 10,000+ | Energy-O-Thon, Go BRICS Business Forum | Mar 2026 | `<1 FN/1,000 alarms` · $18K+/incident saved · €2.1B market |
-| 🥇 **1st Place** | Indo-Russian Bilateral Energy-O-Thon | Dec 2025 | $175,200/yr savings · Only all-first-year UG team of 330+ |
+| 🏆 **Top 60** / 10,000+ | Energy-O-Thon, Go BRICS Business Forum | Mar 2026 | `<1 FN / 1,000 alarms` · $18K+ saved/incident · €2.1B market |
+| 🥇 **1st Place** | Indo-Russian Bilateral Energy-O-Thon | Dec 2025 | $175,200/yr savings · only all-first-year UG team of 330+ |
 
 ---
 
-## 👔 Leadership
+### 👔 &nbsp; Leadership
 
 | Role | Organisation | Period |
 |:---|:---|:---:|
-| Team Lead — **Ember AI** | Energy-O-Thon, Go BRICS | Mar 2026 |
-| Tech Lead — **Team Alpha** | Indo-Russian Energy-O-Thon | Oct–Dec 2025 |
-| Tech Lead — **Team Aura** | SIH 2025 | Oct–Dec 2025 |
+| **Team Lead** — Ember AI (ID: 8054) | Energy-O-Thon, Go BRICS Business Forum | Mar 2026 |
+| **Tech Lead** — Team Alpha | Indo-Russian Energy-O-Thon (International) | Oct – Dec 2025 |
+| **Tech Lead** — Team Aura | SIH 2025 (National) | Oct – Dec 2025 |
 
 ---
 
-## 🐍 Contribution Snake
+### 🎓 &nbsp; Education
+
+| | Institution | Score | Year |
+|:---:|:---|:---:|:---:|
+| ⚡ | **RGIPT** — B.Tech Electrical Engineering (E-Vehicle Technology) | CPI 7.48 / 10 | 2025 – 2029 |
+| 📘 | Indra Raj Memorial Academy — CBSE Class XII | 86.4% | 2024 |
+| 📗 | Kapil Ganga Public School — CBSE Class X | 96.8% | 2022 |
+
+---
+
+### 🐍 &nbsp; Contribution Snake
 
 <div align="center">
 
@@ -218,34 +238,12 @@ SCADA ──WS──▶ FastAPI ──▶ ThreadPoolExecutor ──┬──▶ 
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/HashByte-M/HashByte-M/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
-> Snake auto-generates via GitHub Actions. Place `snake.yml` in `.github/workflows/` and trigger manually once from the Actions tab.
-
 </div>
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Score | Year |
-|:---|:---|:---:|:---:|
-| B.Tech — Electrical Engineering (E-Vehicle Tech) | RGIPT, Amethi | CPI: 7.48/10 | 2025–2029 |
-| Class XII — CBSE | Indra Raj Memorial Academy, Basti | 86.4% | 2024 |
-| Class X — CBSE | Kapil Ganga Public School, Basti | 96.8% | 2022 |
 
 ---
 
 <div align="center">
 
-*"I don't just write code — I engineer systems that think, adapt, and deliver measurable impact."*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prateek-modanwal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF2A5F.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://Prateekm.netlify.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prateekmodanwal.work@gmail.com)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF2A5F,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn"/>
 
 </div>

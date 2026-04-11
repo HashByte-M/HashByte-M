@@ -1,114 +1,109 @@
-<div align="center">
+<!--  https://prateekm.netlify.app  -->
 
-<!-- Animated Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I'm+Prateek+%F0%9F%91%8B;A+CS+Student+%26+Web+Dev+Explorer;Building+things%2C+breaking+things%2C+learning." alt="Typing SVG" />
-
-</div>
-
----
-
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-### 🙋‍♂️ About Me
-
-- 🎓 First-year **B.Tech Computer Science** student — still figuring it all out, one project at a time
-- 🌱 Currently exploring **Web Development**, **React**, and whatever looks interesting that week
-- 🔭 I love building things that actually *do* something — dashboards, platforms, tools
-- 💡 I learn best by jumping into projects headfirst
-- 🤝 Open to collaborating on anything web-related or just interesting to build
-- 📍 Based in **India**
-- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/prateek-modanwal-58a315263/)**
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 🚀 Projects I've Built
-
-> *Still early in the journey, but these are real things I made from scratch.*
-
----
-
-#### 🌐 [Portfolio](https://github.com/HashByte-M/portfolio)
-> My personal portfolio — the place where everything lives. Built with pure HTML & CSS, showcases who I am and what I've worked on.
-
-`HTML` `CSS` `JavaScript`
-
----
-
-#### 🏠 [HostelHub](https://github.com/HashByte-M/hostelhub)
-> A hostel management web platform designed to simplify student accommodation — room bookings, listings, and all the admin headaches in one place.
-
-`HTML` `CSS` `JavaScript`
-
----
-
-#### 💧 [Aquasphere](https://github.com/HashByte-M/aquasphere)
-> A data-driven **National Water Resources Intelligence Dashboard** built with Streamlit. Integrates the **Google Gemini API** for AI-powered data ingestion, policy briefings, and forecasting. Features interactive maps, groundwater trend analysis, drought detection, and SARIMAX-based predictions — built for SIH 2025.
-
-`Python` `Streamlit` `Plotly` `Google Gemini API` `Pandas` `statsmodels`
-
----
-
-#### 🚗 [AutoVista](https://github.com/HashByte-M/autovista)
-> An automobile discovery and comparison web app — browse, filter, and explore cars with a clean and responsive UI.
-
-`HTML` `CSS` `JavaScript`
-
----
-
-### 📊 GitHub Stats
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Prateek+%F0%9F%91%8B;A+First-Year+Dev+Building+Real+Things;FastAPI+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Always+Exploring" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrateekModanwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekModanwal&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://badges.pufler.dev/visits/HashByte-M/HashByte-M"/>
+  <img src="https://badges.pufler.dev/repos/HashByte-M"/>
+  <img src="https://badges.pufler.dev/commits/monthly/HashByte-M"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrateekModanwal&theme=tokyonight&hide_border=true" height="160"/>
+  I'm a first-year B.Tech student at <b>RGIPT</b> 🏛️, always willing to learn and build across technologies and domains 💡.<br/>
+  I love jumping into projects headfirst — hackathons, tools, full-stack apps, whatever looks interesting 🚀.<br/>
+  🥇 <b>1st Place – Indo-Russian Bilateral Energy-O-Thon</b> &nbsp;|&nbsp; 🌍 <b>Top 60 / 10,000+ – Go BRICS Energy-O-Thon 2026</b>
 </p>
 
 ---
 
-### 🔗 Let's Connect
+<h2 align="center">Technology Stack 💻</h2>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/prateek-modanwal-58a315263/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">🚀 Projects</h2>
+
+<p align="center">
+  <a href="https://prateekm.netlify.app"><b>🌐 Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/HashByte-M/hostelhub"><b>🏠 HostelHub</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/HashByte-M/aquasphere"><b>💧 AquaSphere</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/HashByte-M/autovista"><b>🚗 AutoVista</b></a>
+</p>
+
+<p align="center">
+  <b>HostelHub</b> — Full-stack campus portal with JWT + OTP auth, 5-tier RBAC, Socket.IO real-time push & Neon PostgreSQL<br/>
+  <b>AquaSphere</b> — SIH 2025 · Water intelligence dashboard with SARIMAX forecasting & LLM policy briefings (Python · Streamlit)<br/>
+  <b>AutoVista</b> — Virtual vehicle showroom with real-time filtering, EMI calculator & dark/light theme (Vanilla JS · Tailwind)<br/>
+  <b>Portfolio</b> — My personal site · <a href="https://prateekm.netlify.app">prateekm.netlify.app</a>
+</p>
+
+---
+
+<h2 align="center">Reach Me Out 🤝</h2>
+
+<p align="center">
+  <a href="mailto:prateekmodanwal.work@gmail.com">
+    <img src="https://img.shields.io/badge/-prateekmodanwal.work-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/HashByte-M" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/prateek-modanwal-58a315263/">
+    <img src="https://img.shields.io/badge/-Prateek_Modanwal-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://prateekm.netlify.app">
+    <img src="https://img.shields.io/badge/-prateekm.netlify.app-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrateekModanwal&color=00d9ff&style=flat-square&label=Profile+Views" />
-  <br/><br/>
-  <i>"I'm not an expert — I'm a first-year student who loves to build things. That's enough for now."</i>
-</div>
+<h2 align="center">
+  My Contribution Graph 🐍
+</h2>
+<p align="center">
+  <img src="https://github.com/HashByte-M/HashByte-M/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
 
 ---
 
-<div align="center">
+<h2 align="center">
+  My Github Stats 📊
+</h2>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HashByte-M&show_icons=true&theme=radical&line_height=27"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashByte-M&theme=radical"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HashByte-M&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
+</p>
+
+<hr/>
+<p align="center">If you like it, do fork 🍴 and star ⭐</p>

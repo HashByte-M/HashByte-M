@@ -15,7 +15,7 @@
 <br/>
 
 <!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF2A5F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f)](https://linkedin.com/in/prateek-modanwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF2A5F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f)](https://www.linkedin.com/in/prateek-modanwal-58a315263/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-00F0FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0f)](https://Prateekm.netlify.app)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-FFE600?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0a0a0f)](mailto:prateekmodanwal.work@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/HashByte-M)

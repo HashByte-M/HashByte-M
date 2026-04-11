@@ -10,7 +10,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: HashByte-M
-          outputs: dist/github-contribution-grid-snake-dark.svg
+          outputs: dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output

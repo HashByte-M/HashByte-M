@@ -220,10 +220,6 @@
 </h2>
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HashByte-M&show_icons=true&theme=radical&line_height=27&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashByte-M&theme=radical&hide_border=true&layout=compact&cache_seconds=1800" alt="Top Languages"/>
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HashByte-M&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" alt="GitHub Streak"/>
 </p>
 <p align="center">

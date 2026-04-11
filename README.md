@@ -1,6 +1,6 @@
 <!--  https://prateekm.netlify.app  -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+I'm+Prateek+%F0%9F%91%8B;A+First-Year+Dev+Building+Real+Things;FastAPI+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Always+Exploring" />
+<img src="https://github.com/HashByte-M/HashByte-M/blob/main/lakeside-evening-deer-minimal-art-landscape-scenic-panorama-7680x3215-4585.png" />
 
 <p align="center">
   <img src="https://badges.pufler.dev/visits/HashByte-M/HashByte-M"/>

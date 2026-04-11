@@ -1,6 +1,6 @@
 <!--  https://prateekm.netlify.app  -->
 
-<img src="https://github.com/HashByte-M/HashByte-M/blob/main/lakeside-evening-deer-minimal-art-landscape-scenic-panorama-7680x3215-4585.png"/>
+<img src="https://github.com/HashByte-M/HashByte-M/blob/809479d9fdba58da19ba8967fcb8cdd827438d47/lakeside-evening-deer-minimal-art-landscape-scenic-panorama-7680x3215-4585.png">
 
 <p align="center">
   <img src="https://badges.pufler.dev/visits/HashByte-M/HashByte-M"/>

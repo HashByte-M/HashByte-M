@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I'm a first-year B.Tech student at <b>RGIPT, Amethi</b> 🏛️, always willing to learn and build across technologies and domains 💡.<br/>
+  I'm a sophomore B.Tech student at <b>RGIPT, Amethi</b> 🏛️, always willing to learn and build across technologies and domains 💡.<br/>
   I love jumping into projects headfirst — hackathons, full-stack builds, whatever looks interesting that week ⚡.<br/>
   I'm not an expert — I'm someone who learns by shipping things. Still early in the journey, but the projects are real 🚀.<br/>
   <br/>
